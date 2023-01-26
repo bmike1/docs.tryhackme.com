@@ -1,3 +1,10 @@
+I think you should show us how to ssh into your box. I am constantly getting 'permission denied'. (as shown below)
+michael@desktop1:~$ ssh steve@10.10.185.243
+steve@10.10.185.243: Permission denied (publickey).
+michael@desktop1:~$ 
+UID-  bmike1
+time- 7:59
+
 ---
 id: openvpn-troubleshooting
 title: OpenVPN Troubleshooting
